@@ -1,0 +1,39 @@
+[
+    {
+        "jobTitle": "Web-Developer",
+        "employmentType": "part-time/full-time/project-based",
+        "organizationName": "Project-BD",
+        "jobDescription": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        "qualification": "BSc in CSE",
+        "experience": "Optional",
+        "salary": "Negotiable",
+        "jobLocation": "Mirpur-10,Dhaka"
+    },
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "Admin123#",
+        "contactNumber": "01894562397",
+        "role": "Admin"
+    },
+    {
+        "username": "zesan",
+        "email": "zesan@gmail.com",
+        "password": "Zesan123#",
+        "contactNumber": "01894562397"
+    },
+    {
+        "user": {
+            "id": "...",
+            "email": "zesan@gmail.com"
+        },
+        "jobInfo": {
+            "jobTitle": "Web-Developer",
+            "jobId": "..."
+        },
+        "employmentType": "part-time",
+        "qualification": "BSc in CSE",
+        "experience": "freasher",
+        "address": "Mirpur-11,Dhaka"
+    }
+]
